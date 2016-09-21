@@ -6,5 +6,6 @@
 <p>httpUtils  基于AFNetworking的http工具类</p>
 <p>SaveUtils  常用的数据存储工具类</p>
 <p>StatusDbUtils 数据库使用示例类 </p>
+<p>XMGAudioTool 播放音效工具类 </p>
 
 
